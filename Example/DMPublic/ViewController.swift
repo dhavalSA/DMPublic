@@ -7,12 +7,13 @@
 //
 
 import UIKit
-
+import DMPublic
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        PDMLogger.logME()
     }
 
     override func didReceiveMemoryWarning() {

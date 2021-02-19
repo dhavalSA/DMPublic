@@ -1,0 +1,6 @@
+framework module DMPublic {
+  umbrella header "DMPublic-umbrella.h"
+
+  export *
+  module * { export * }
+}

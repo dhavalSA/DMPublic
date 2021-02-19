@@ -1,0 +1,16 @@
+PODS:
+  - DMPublic (0.1.0)
+
+DEPENDENCIES:
+  - DMPublic (from `../`)
+
+EXTERNAL SOURCES:
+  DMPublic:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DMPublic: 04c52420b35a9c039add4f1a4dc125b296f09cb6
+
+PODFILE CHECKSUM: 69143646007317e389fa249cc38720f29abc475d
+
+COCOAPODS: 1.10.1
