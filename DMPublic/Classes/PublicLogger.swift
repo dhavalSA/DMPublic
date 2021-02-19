@@ -11,4 +11,7 @@ public class PDMLogger{
     public static func logME(){
         print("this is public logger!!!")
     }
+    public static func printMePublicaly (str:String){
+        print(str)
+    }
 }
